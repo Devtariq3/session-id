@@ -4,6 +4,6 @@ services:
     env: docker
     plan: free
     branch: main
-    repo: https://github.com/github Devtariq3/TARIQ-MD
+    repo: https://github.com/Devtariq3/TARIQ-MD
     dockerfilePath: ./Dockerfile
     autoDeploy: true
