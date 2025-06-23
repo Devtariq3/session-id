@@ -89,7 +89,7 @@ https://whatsapp.com/channel/0029Vb40oQM7z4kmL0SG4h45
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/Devtariq3/TARIQ-MF
+https://github.com/Devtariq3/TARIQ-MD
 
 > *© Powered BY Tariq ❤️🔐*`; 
                         await sock.sendMessage(sock.user.id, {
